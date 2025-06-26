@@ -1,0 +1,37 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 6,
+  "boxShadow": "none",
+  "buttonColor": "#15803d",
+  "buttonVariant": "PRIMARY",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "iconName": "tick",
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "1nt5do3c84",
+  "leftColumn": 56,
+  "minWidth": 50,
+  "mobileBottomRow": 7,
+  "mobileLeftColumn": 59,
+  "mobileRightColumn": 63,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "parentColumnSpace": 13.4560546875,
+  "parentId": "nk6yhkq026",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "hug",
+  "rightColumn": 60,
+  "topRow": 2,
+  "type": "ICON_BUTTON_WIDGET",
+  "version": 1,
+  "widgetId": "iatrhrmdqe",
+  "widgetName": "IconButton2"
+}
